@@ -1,0 +1,23 @@
+.page {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.page-item {
+  min-width: 2.5em;
+  min-height: 2.5em;
+  line-height: 2.5em;
+  overflow: hidden;
+  margin: 0 2px;
+  cursor: pointer;
+  border: 1px solid #636363;
+}
+.page-item.active {
+  background-color: red;
+}
+.page-item-ellipsis {
+  border: none;
+  cursor: none;
+}
