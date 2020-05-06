@@ -8,7 +8,7 @@
  * @param {String} next 下一页显示的文字
  * @param {String} ellipsis 省略的页码显示文字
  */
-export default function (page, total, sideCount, prev='<', next='>', ellipsis='...') {
+export default function (page = 1, total = 0, sideCount = 1, prev='<', next='>', ellipsis='...') {
   if(+total<0) {
     console.warn(`The argument total should greater than 0, but got ${total}. we assign 0 to total.`);
     total = 0;

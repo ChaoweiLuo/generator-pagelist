@@ -4674,10 +4674,10 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.npmjs.org/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-generator-pagelist@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/generator-pagelist/-/generator-pagelist-1.0.1.tgz#817494b086fa532e4f26e7f11ee4345f42383b29"
-  integrity sha512-96XI+R+RWtSCbA/ytmeGj5+wI0rwUUudaWW4VJVFWoAoDz2wG0vBXv/YBCsxtqYkf1B9HXj1H7Eu2tDlK/l62w==
+generator-pagelist@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/generator-pagelist/-/generator-pagelist-1.0.2.tgz#793fd2520815e5b3ee98278d611c65b4aa214ea3"
+  integrity sha512-hdr0Lk5NJf4uMAoCMBYgopmzWyVnEyLDnNzmygMUAnLuGL6XXJHkRBk5xPsQmB2eebYZjhK8nYIn/+Oj+tPgjw==
 
 gensync@^1.0.0-beta.1:
   version "1.0.0-beta.1"

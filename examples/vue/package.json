@@ -18,7 +18,7 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
   },
-  "name": "multi-demo",
+  "name": "vue-example",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
